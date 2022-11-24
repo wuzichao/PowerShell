@@ -1,1 +1,2 @@
 Connect-ExchangeOnline
+Disconnect-ExchangeOnline
