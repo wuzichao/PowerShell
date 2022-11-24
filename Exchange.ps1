@@ -1,2 +1,3 @@
 Connect-ExchangeOnline
 Disconnect-ExchangeOnline
+Test-Connection
