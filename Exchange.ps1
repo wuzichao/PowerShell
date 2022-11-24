@@ -1,2 +1,2 @@
 Connect-ExchangeOnline
-Get-Mailbox -Maxresults unlimited
+Get-Mailbox -ResultSize unlimited
