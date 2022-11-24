@@ -1,3 +1,2 @@
 Connect-ExchangeOnline
-test-ccc
-ok-checkplease
+Get-Mailbox -Maxresults unlimited
